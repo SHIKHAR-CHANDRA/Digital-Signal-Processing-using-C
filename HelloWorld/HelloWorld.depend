@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1630162112 source:c:\c_projects\helloworld\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1630162817 source:c:\c_projects\helloworld\waveforms.c
+
